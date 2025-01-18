@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-If you are looking for the homepage, I'm directing you to [khzhang2.github.io](khzhang2.github.io).
+If you are looking for the homepage, I'm directing you to [khzhang2.github.io](http://khzhang2.github.io).
